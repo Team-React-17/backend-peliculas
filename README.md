@@ -2,7 +2,12 @@
 
 <h3>Code with</h3>
 
-This project was bootstrapped with [Create React App](https://img.shields.io/github/followers/camilo-17?label=camilo-17&style=social).
+json-server
+
+```
+json-server --watch db.json --port 3001
+
+```
 
 <h3>Team</h3>
 
